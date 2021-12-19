@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<a href="https://hosseincodes.github.io/my-personal-website/">My Personal Website</a>
+<a href="https://hosseincodes.github.io/my-personal-website/">Personal Website</a> | <a href="https://hosseincodes.github.io/blog/">Blog</a>
+
+![hosseincodes's github stats](https://github-readme-stats.vercel.app/api?username=hosseincodes&show_icons=true&theme=dracula)
 
 <!--
 **hosseincodes/hosseincodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
