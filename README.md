@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can contact me through email: hosseinakbari506@gmail.com
+
 <a href="https://hosseincodes.github.io/my-personal-website/">Personal Website</a> | <a href="https://hosseincodes.github.io/blog/">Blog</a>
 
 ![hosseincodes's github stats](https://github-readme-stats.vercel.app/api?username=hosseincodes&show_icons=true&theme=dracula)
